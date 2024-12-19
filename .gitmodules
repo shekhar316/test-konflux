@@ -1,3 +1,7 @@
 [submodule "autotune"]
 	path = autotune
 	url = https://github.com/shekhar316/autotune.git
+[submodule "remote_monitoring"]
+	path = remote_monitoring
+	url = https://github.com/shekhar316/autotune.git
+	branch = remote_monitoring
