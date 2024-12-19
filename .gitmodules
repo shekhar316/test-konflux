@@ -5,3 +5,7 @@
 	path = remote_monitoring
 	url = https://github.com/shekhar316/autotune.git
 	branch = remote_monitoring
+[submodule "mvp_demo"]
+	path = mvp_demo
+	url = https://github.com/shekhar316/autotune.git
+	branch = mvp_demo
